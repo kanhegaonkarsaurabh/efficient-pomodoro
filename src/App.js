@@ -7,7 +7,7 @@ const { Option } = Select;
 const App = () => (
   <Form horizontal>
     <Form.Item
-      label="数字输入框"
+      label="Label"
       labelCol={{ span: 8 }}
       wrapperCol={{ span: 8 }}
     >
@@ -38,7 +38,7 @@ const App = () => (
         <Option value="jack">jack</Option>
         <Option value="lucy">lucy</Option>
         <Option value="disabled" disabled>disabled</Option>
-        <Option value="yiminghe">yiminghe</Option>
+        <Option value="yiminghe">yimisfkjsfakjnghe</Option>
       </Select>
     </Form.Item>
     <Form.Item
